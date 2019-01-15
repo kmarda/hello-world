@@ -1,5 +1,2 @@
 # hello-world
-
-Hi everyone,
-
-This is Karan
+Just another repository
